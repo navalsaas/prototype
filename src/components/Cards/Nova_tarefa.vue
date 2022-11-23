@@ -4,7 +4,7 @@
         <div class="card-body">
            <p>Box Nova tarefa</p>
             <!-- Modal Start -->
-            <label for="my-modal" class="btn">open modal</label>
+            <label for="my-modal" class="btn">Botao adicionar</label>
             <!-- Modal Content Start -->
             <input type="checkbox" id="my-modal" class="modal-toggle" />
             <div class="modal">

@@ -15,7 +15,7 @@ import Anotacao from '../Cards/Anotacao.vue';
                  <Nova_anotacao />
               </div>
            </div>
-           <div>Fixas</div>
+           <div>Fixas (Space divider)</div>
            <div class="border-dotted border-2 border-indigo-600 flex flex-wrap overflow-hidden">
               <div class="bg-primary w-full overflow-hidden xl:w-1/3">
                  <Anotacao />
@@ -27,7 +27,7 @@ import Anotacao from '../Cards/Anotacao.vue';
                  <Anotacao />
               </div>
            </div>
-           <div>Outras</div>
+           <div>Outras (Space Divider)</div>
            <div class="border-dotted border-2 border-indigo-600 flex flex-wrap overflow-hidden">
               <div class="bg-primary w-full overflow-hidden xl:w-1/3">
                  <Anotacao />
