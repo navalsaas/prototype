@@ -2,7 +2,7 @@
     <div class="m-4">
       <div class="card bg-base-100 shadow-xl">
         <div class="card-body">
-          <p>Box Tarefas cadastradas</p>
+          <p>Box Tarefa cadastrada</p>
             <!-- Modal Start -->
             <label for="my-modal" class="btn">botao editar</label>
             <!-- Modal Content Start -->

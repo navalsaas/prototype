@@ -1,6 +1,6 @@
 <script setup>
 import Nova_tarefa from '../Cards/Nova_tarefa.vue';
-import Tarefas_cadastradas from '../Cards/Tarefas_cadastradas.vue';
+import Tarefas_cadastradas from '../Cards/Tarefa.vue';
 
 </script>
 
@@ -17,6 +17,21 @@ import Tarefas_cadastradas from '../Cards/Tarefas_cadastradas.vue';
              </div>
              <div class="border-dotted border-2 border-indigo-600 flex flex-wrap overflow-hidden">
                 <div class="bg-secondary w-full overflow-hidden">
+                  <Tarefas_cadastradas />
+                </div>
+             </div>
+             <div class="border-dotted border-2 border-indigo-600 flex flex-wrap overflow-hidden">
+                <div class="bg-primary w-full overflow-hidden">
+                  <Tarefas_cadastradas />
+                </div>
+             </div>
+             <div class="border-dotted border-2 border-indigo-600 flex flex-wrap overflow-hidden">
+                <div class="bg-secondary w-full overflow-hidden">
+                  <Tarefas_cadastradas />
+                </div>
+             </div>
+             <div class="border-dotted border-2 border-indigo-600 flex flex-wrap overflow-hidden">
+                <div class="bg-primary w-full overflow-hidden">
                   <Tarefas_cadastradas />
                 </div>
              </div>
