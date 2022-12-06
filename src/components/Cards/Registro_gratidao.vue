@@ -9,9 +9,9 @@ import Editar_gratidao from '../Modals/Editar_gratidao.vue';
         <div class="card-body">
            <p>Box Registro Gratidao</p>
             <!-- Modal Start -->
-            <label for="my-modal" class="btn">Botao editar</label>
+            <label for="my-modal-2" class="btn">Botao editar</label>
             <!-- Modal Content Start -->
-            <input type="checkbox" id="my-modal" class="modal-toggle" />
+            <input type="checkbox" id="my-modal-2" class="modal-toggle" />
             <div class="modal">
                <div class="modal-box">
                   <Editar_gratidao />

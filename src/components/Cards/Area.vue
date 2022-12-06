@@ -10,9 +10,9 @@ import Editar_area from '../Modals/Editar_area.vue';
          <input type="text" placeholder="Type here" class="input input-sm w-full max-w-xs font-bold text-center mx-auto mb-2" />
          <img src="https://app.naval.app.br/img/help9.7f74691d.png" width="42" class="mx-auto" />
             <!-- Modal Start -->
-            <label for="my-modal" class="btn">Botao editar</label>
+            <label for="my-modal-2" class="btn">Botao editar</label>
             <!-- Modal Content Start -->
-            <input type="checkbox" id="my-modal" class="modal-toggle" />
+            <input type="checkbox" id="my-modal-2" class="modal-toggle" />
             <div class="modal">
                <div class="modal-box">
                   <Editar_area />
