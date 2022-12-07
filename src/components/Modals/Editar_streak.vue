@@ -1,4 +1,5 @@
 <template>
+  <h2>Editar Streak</h2>
             <input type="text" placeholder="Type here" class="input input-bordered w-full max-w-xs" />
             <select class="select select-bordered w-full max-w-xs">
   <option disabled selected>Who shot first?</option>

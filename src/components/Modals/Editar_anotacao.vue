@@ -1,4 +1,5 @@
 <template>
+    <h2>Editar anotacao</h2>
 <input type="text" placeholder="Type here" class="input input-bordered w-full max-w-xs" />
                  
                  <textarea class="textarea textarea-bordered" placeholder="Bio"></textarea>
