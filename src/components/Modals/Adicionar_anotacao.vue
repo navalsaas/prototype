@@ -1,7 +1,7 @@
 <template>
-    <span>content modal adicionar anotacao</span>
+        <p>Nome da anotacao</p>
+         <p>Conteudo da anotacao</p>
     <div class="modal-action">
-                     <label for="my-modal" class="btn">Yay!</label>
-                     <label for="my-modal" class="btn">Yay!</label>
+                     <label for="my-modal" class="btn">Adicionar anotacao</label>
     </div>
 </template>

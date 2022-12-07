@@ -7,13 +7,18 @@ import Editar_streak from '../Modals/Editar_streak.vue';
     <div class="m-4">
       <div class="card bg-base-100 shadow-xl">
         <div class="card-body">
-          <p>Box Streak</p>
+          <p>Nome do streak</p>
+          <p>Icone da area</p>
+          <p>voce esta a x dias nesse streak</p>
+          <p>Data de inicio</p>
+          <p>01/07/1987</p>
             <!-- Modal Start -->
             <label for="my-modal-2" class="btn">Botao editar</label>
             <!-- Modal Content Start -->
             <input type="checkbox" id="my-modal-2" class="modal-toggle" />
             <div class="modal">
-               <div class="modal-box">
+              <div class="modal-box relative">
+               <label for="my-modal-2" class="btn btn-sm btn-circle absolute right-2 top-2">✕</label>
                   <Editar_streak />
                </div>
             </div>

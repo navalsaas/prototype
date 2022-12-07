@@ -7,13 +7,13 @@ import Adicionar_area from '../Modals/Adicionar_area.vue';
     <div class="m-4">
        <div class="card bg-base-100 shadow-xl">
           <div class="card-body">
-             <p>Box Nova Area</p>
             <!-- Modal Start -->
-            <label for="my-modal" class="btn">Botao adicionar</label>
+            <label for="my-modal" class="btn">Adicionar area</label>
             <!-- Modal Content Start -->
             <input type="checkbox" id="my-modal" class="modal-toggle" />
             <div class="modal">
-               <div class="modal-box">
+               <div class="modal-box relative">
+               <label for="my-modal" class="btn btn-sm btn-circle absolute right-2 top-2">✕</label>
                   <Adicionar_area />
                </div>
             </div>
