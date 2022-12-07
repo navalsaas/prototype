@@ -1,7 +1,7 @@
 <template>
-                 <p>Adicionar objetivo</p>
-          <p>Escolher Icone da area</p>
-          <p>Adicionar Comentario do objetivo</p>
+                 <input type="text" placeholder="Type here" class="input input-bordered w-full max-w-xs" />
+                 <img src="https://via.placeholder.com/150">
+                 <textarea class="textarea textarea-bordered" placeholder="Bio"></textarea>
     <div class="modal-action">
                      <label for="my-modal" class="btn">Adicionar objetivo</label>
     </div>

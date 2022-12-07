@@ -8,10 +8,10 @@ import Editar_objetivo from '../Modals/Editar_objetivo.vue';
      <div class="card bg-base-100 shadow-xl">
         <div class="card-body">
          <p>Nome do objetivo</p>
-          <p>Icone da area</p>
+         <img src="https://app.naval.app.br/img/help9.7f74691d.png" width="42" class="mx-auto">
           <p>Comentario do objetivo</p>
             <!-- Modal Start -->
-            <label for="my-modal-2" class="btn">Editar objetivo</label>
+            <label for="my-modal-2" class="btn btn-xs">Editar objetivo</label>
             <!-- Modal Content Start -->
             <input type="checkbox" id="my-modal-2" class="modal-toggle" />
             <div class="modal">
