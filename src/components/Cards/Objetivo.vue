@@ -8,8 +8,10 @@ import Editar_objetivo from '../Modals/Editar_objetivo.vue';
      <div class="card bg-base-100 shadow-xl">
         <div class="card-body">
          <h3>Nome do objetivo</h3>
-         <div class="margin-for-input">
-         <img src="https://app.naval.app.br/img/help9.7f74691d.png" width="42" class="mx-auto">
+         <div class="margin-for-input text-center">
+            <div class="badge badge-primary mb-2">area da vida</div>
+         <img src="https://app.naval.app.br/img/help9.7f74691d.png" width="42" class="mx-auto" />
+          
       </div>
       <div class="margin-for-input">
           <p>Comentario do objetivo</p>

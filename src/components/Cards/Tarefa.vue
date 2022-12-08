@@ -11,6 +11,7 @@ import Editar_tarefa from '../Modals/Editar_tarefa.vue';
             <span>Nome da tarefa</span>
             <br>
             <div class="badge badge-primary">area da vida</div>
+            &nbsp;
             <div class="badge badge-primary">segunda, quarta, sexta</div>
           </div>
             <!-- Modal Start -->

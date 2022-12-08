@@ -7,7 +7,7 @@ import Editar_area from '../Modals/Editar_area.vue';
   <div class="m-4">
      <div class="card bg-base-100 shadow-xl">
         <div class="card-body">
-         <h3>Area da Vida</h3>
+         <h3><span class="badge badge-lg badge-primary">Area da Vida</span></h3>
          <div class="margin-for-input">
             <img src="https://app.naval.app.br/img/help9.7f74691d.png" width="42" class="mx-auto" />
          </div>
