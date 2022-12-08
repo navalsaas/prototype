@@ -7,13 +7,17 @@ import Editar_streak from '../Modals/Editar_streak.vue';
     <div class="m-4">
       <div class="card bg-base-100 shadow-xl">
         <div class="card-body">
-          <p>Nome do streak</p>
+          <h3>Nome do streak</h3>
+          <div class="margin-for-input">
           <img src="https://app.naval.app.br/img/help9.7f74691d.png" width="42" class="mx-auto" />
+        </div>
+        <div class="margin-for-input">
           <p>voce esta a x dias nesse streak</p>
           <p>Data de inicio</p>
           <p>01/07/1987</p>
+          </div>
             <!-- Modal Start -->
-            <label for="my-modal-2" class="btn btn-xs">Editar streak</label>
+            <label for="my-modal-2" class="btn btn-xs btn-circle absolute right-2 top-2">🖊️</label>
             <!-- Modal Content Start -->
             <input type="checkbox" id="my-modal-2" class="modal-toggle" />
             <div class="modal">

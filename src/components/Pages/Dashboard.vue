@@ -37,7 +37,7 @@ import Citacao from '../Cards/Citacao.vue';
                  <Area />
               </div>
            </div>
-           <div>Space divider</div>
+           <div class="space-divider"></div>
            <div class="border-dotted border-2 border-indigo-600 flex flex-wrap overflow-hidden">
               <div class="bg-primary w-full overflow-hidden xl:w-1/2">
                  <Tarefas_dia />

@@ -7,11 +7,13 @@ import Editar_gratidao from '../Modals/Editar_gratidao.vue';
   <div class="m-4">
      <div class="card bg-base-100 shadow-xl">
         <div class="card-body">
+         <div class="margin-for-input">
            <p>Veja sua gratidao do dia:</p>
            <p>Minha casa</p>
            <p>21/08/2022</p>
+         </div>
             <!-- Modal Start -->
-            <label for="my-modal-2" class="btn">Editar gratidao desse dia</label>
+            <label for="my-modal-2" class="btn btn-xs btn-circle absolute right-2 top-2">🖊️</label>
             <!-- Modal Content Start -->
             <input type="checkbox" id="my-modal-2" class="modal-toggle" />
             <div class="modal">

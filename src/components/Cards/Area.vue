@@ -8,10 +8,14 @@ import Editar_area from '../Modals/Editar_area.vue';
      <div class="card bg-base-100 shadow-xl">
         <div class="card-body">
          <h3>Area da Vida</h3>
-         <img src="https://app.naval.app.br/img/help9.7f74691d.png" width="42" class="mx-auto" />
-         <p>Texto  da area da vida...</p>
+         <div class="margin-for-input">
+            <img src="https://app.naval.app.br/img/help9.7f74691d.png" width="42" class="mx-auto" />
+         </div>
+         <div class="margin-for-input text-for-comments">
+            <p>Texto  da area da vida...</p>
+         </div>
             <!-- Modal Start -->
-            <label for="my-modal-2" class="btn btn-xs">Editar area</label>
+            <label for="my-modal-2" class="btn btn-xs btn-circle absolute right-2 top-2">🖊️</label>
             <!-- Modal Content Start -->
             <input type="checkbox" id="my-modal-2" class="modal-toggle" />
             <div class="modal">

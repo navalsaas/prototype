@@ -7,11 +7,14 @@ import Editar_tarefa from '../Modals/Editar_tarefa.vue';
     <div class="m-4">
       <div class="card bg-base-100 shadow-xl">
         <div class="card-body">
-          <p>Nome da tarefa</p>
-          <div class="badge badge-primary">area da vida</div>
-          <div class="badge badge-primary">segunda, quarta, sexta</div>
+          <div class="margin-for-input">
+            <span>Nome da tarefa</span>
+            <br>
+            <div class="badge badge-primary">area da vida</div>
+            <div class="badge badge-primary">segunda, quarta, sexta</div>
+          </div>
             <!-- Modal Start -->
-            <label for="my-modal-2" class="btn btn-xs">Editar tarefa</label>
+            <label for="my-modal-2" class="btn btn-xs btn-circle absolute right-2 top-2">🖊️</label>
             <!-- Modal Content Start -->
             <input type="checkbox" id="my-modal-2" class="modal-toggle" />
             <div class="modal">
