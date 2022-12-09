@@ -1,5 +1,5 @@
 <template>
-  <h2>Adicionar Tarefa</h2>
+  <h2>Adicionar Tarefa Semanal</h2>
   <div class="margin-for-input">
     <label class="label">
       <span class="label-text">Label aqui:</span>
