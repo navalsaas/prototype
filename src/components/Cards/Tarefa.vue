@@ -7,6 +7,7 @@
     <div class="card bg-base-100 shadow-xl">
       <div class="card-body">
         <div class="margin-for-input">
+          <img src="https://app.naval.app.br/img/help9.7f74691d.png" width="42" class="" />
           <span class="nome-tarefa-cadastrada">Nome da tarefa</span>
           <br>
           <div class="badge badge-primary mr-1">area da vida</div>
