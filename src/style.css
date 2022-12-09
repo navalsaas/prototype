@@ -33,5 +33,8 @@ h3 {
 .anotacoes-fixas-outras {
     font-weight: 500;;
 }
+.nome-tarefa-cadastrada {
+    font-weight: bold;
+}
 
 /* Custom CSS End */

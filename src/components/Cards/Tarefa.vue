@@ -8,10 +8,10 @@ import Editar_tarefa from '../Modals/Editar_tarefa.vue';
       <div class="card bg-base-100 shadow-xl">
         <div class="card-body">
           <div class="margin-for-input">
-            <span>Nome da tarefa</span>
+            <span class="nome-tarefa-cadastrada">Nome da tarefa</span>
             <br>
-            <div class="badge badge-primary">area da vida</div>
-            &nbsp;
+            <div class="badge badge-primary mr-1">area da vida</div>
+            
             <div class="badge badge-primary">segunda, quarta, sexta</div>
           </div>
             <!-- Modal Start -->

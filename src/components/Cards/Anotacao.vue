@@ -12,8 +12,8 @@ import Editar_anotacao from '../Modals/Editar_anotacao.vue';
          <p>Conteudo da anotacao</p>
       </div>
             <!-- Modal Start -->
-            <label for="" class="btn btn-xs btn-circle absolute right-2 top-2">❤️</label>
-            <label for="my-modal-2" class="btn btn-xs btn-circle absolute right-2 bottom-2">🖊️</label>
+            <label for="my-modal-2" class="btn btn-xs btn-circle absolute right-2 top-2">🖊️</label>
+            <label for="" class="btn btn-xs btn-circle absolute right-10 top-2">❤️</label>
             <!-- Modal Content Start -->
             <input type="checkbox" id="my-modal-2" class="modal-toggle" />
             <div class="modal">
